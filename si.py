@@ -11,5 +11,5 @@ else:
     time = 3
     print("Invalid input using default values.")
     simple_interest = (principal * time * rate_of_interest) / 100
-    print(f"Principal amount: {principal}\nRate of interest: {rate_of_interest}\nTime in years: {time}")
+    print(f"Principal amount: {principal}\nRate of interest: {rate_of_interest}\nTime in years: {time}\nSimple interest : {simple_interest}")
     
